@@ -20,6 +20,10 @@ First it tells about
 3. Do you want to select no. of pages (y for yes & n for no) : (yes to select how much no. of pages you want to scrape of specific product, n for by-default it scrape all pages of product )
 4. Enter no. of pages : (in case of y select then enter integer no)
 
+## Output Format
+* XML
+
+
 <br>
 Thank You
 <br>
