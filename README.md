@@ -10,7 +10,7 @@ Libraries required for this projectr can be installed by these commands
 * pip install bs4 lxml
 * pip install selenium (if scraper using selenium)
 
-In case of selenium scraper then you need to download chrome exe file from here [Download Selenium chrome Browser Here](). Please download chrome exe according to their chrome browser version.
+In case of selenium scraper then you need to download chrome exe file from here [Download Selenium chrome Browser Here](https://chromedriver.chromium.org/downloads). Please download chrome exe according to their chrome browser version.
 
 <br>
 Thank You
